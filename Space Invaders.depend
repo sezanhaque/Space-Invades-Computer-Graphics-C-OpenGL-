@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1512708490 source:f:\study\semester 9\computer graphics\project\space invaders\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1512711058 f:\study\semester 9\computer graphics\project\space invaders\include\imageloader.h
+
+1513725809 source:f:\study\semester 9\computer graphics\project\space invaders\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<bits/stdc++.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"imageloader.h"
+	"StdAfx.h"
+	<sstream>
+
+1513697374 f:\study\semester 9\computer graphics\project\space invaders\include\stdafx.h
+
+1513700846 source:f:\study\semester 9\computer graphics\project\space invaders\src\stdafx.cpp
+	"StdAfx.h"
+
+1512708490 source:c:\users\sezan\downloads\space invaders\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1512711058 c:\users\sezan\downloads\space invaders\include\imageloader.h
+
+1513767718 source:c:\users\sezan\downloads\space invaders\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<bits/stdc++.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"imageloader.h"
+	"StdAfx.h"
+	<sstream>
+
+1513697374 c:\users\sezan\downloads\space invaders\include\stdafx.h
+
+1522175903 source:h:\study\semester 9\computer graphics\project\space invaders\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<bits/stdc++.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"imageloader.h"
+	"StdAfx.h"
+	<sstream>
+
+1512711058 h:\study\semester 9\computer graphics\project\space invaders\include\imageloader.h
+
+1513697374 h:\study\semester 9\computer graphics\project\space invaders\include\stdafx.h
+
+1512708490 source:h:\study\semester 9\computer graphics\project\space invaders\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
